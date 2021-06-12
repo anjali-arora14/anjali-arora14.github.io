@@ -1,22 +1,11 @@
 # main links links
 main:
- 
-
-   - title: "Projects"
-     url:
+       
+  - title: "Projects"
+    url: 
     
-   - title: "CV"
-     url: /cv/
-    
-
-  - title: "Teaching"
-    url: /teaching/    
-   
-    
-  - title: "Work Experience"
-    url: /workexperience/
-        
-  
+  - title: "CV"
+    url: /cv/
     
   
     
