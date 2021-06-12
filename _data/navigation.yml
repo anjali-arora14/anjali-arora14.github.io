@@ -2,18 +2,18 @@
 main:
  
 
-   -title: "Projects"
-   url:
+   - title: "Projects"
+     url:
     
    - title: "CV"
-    url: /cv/
+     url: /cv/
     
 
   - title: "Teaching"
     url: /teaching/    
    
     
-  -title: "Work Experience"
+  - title: "Work Experience"
     url: /workexperience/
         
   
